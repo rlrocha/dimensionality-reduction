@@ -3,5 +3,10 @@
 
 1. Dimensionality Reduction with Fisher's Linear Discriminant: An investigation of decision boundaries.
     * [Notebook](fisher.ipynb).
-    * [Colab](https://colab.research.google.com/drive/17YdXndeQf__iVLxJTIwZf5vkhCM55JEl?usp=sharing)
-    * [Medium](https://medium.com/@rlrocha/dimensionality-reduction-with-fishers-linear-discriminant-c475529848ef).
+    * [Colab](https://colab.research.google.com/drive/17YdXndeQf__iVLxJTIwZf5vkhCM55JEl?usp=sharing).
+    * [Blog post](https://medium.com/@rlrocha/dimensionality-reduction-with-fishers-linear-discriminant-c475529848ef).
+
+2. Choosing the Number of Components of Principal Component Analysis: An investigation of cumulative explained variance ratio.
+    * [Notebook](pca.ipynb).
+    * [Colab]().
+    * [Blog post](https://rlrocha.medium.com/choosing-the-number-of-components-of-principal-component-analysis-36902a887520).
