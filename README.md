@@ -8,5 +8,5 @@
 
 2. Choosing the Number of Components of Principal Component Analysis: An investigation of cumulative explained variance ratio.
     * [Notebook](pca.ipynb).
-    * [Colab]().
+    * [Colab](https://colab.research.google.com/drive/1UZy5fyZsgvihJFdYWF5owSwFEPVs6B45?usp=sharing).
     * [Blog post](https://rlrocha.medium.com/choosing-the-number-of-components-of-principal-component-analysis-36902a887520).
